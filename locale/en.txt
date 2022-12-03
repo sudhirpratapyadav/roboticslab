@@ -1,0 +1,143 @@
+#: locale=en
+
+## Action
+
+### URL
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_95C08953_B411_06A6_41E1_0DD81F1935B2.toolTip = Haptic Device
+HotspotPanoramaOverlayArea_AB929B92_B411_79A6_41DF_CE31CE973034.toolTip = Haptic Device
+HotspotPanoramaOverlayArea_9B9D7B48_B417_3AA2_41D6_077FAFC19AA7.toolTip = ISRO arm
+HotspotPanoramaOverlayArea_9AD6029F_B411_0BDE_41C4_9C8F433B6472.toolTip = ISRO arm
+HotspotPanoramaOverlayArea_9AF1A816_B437_06AE_41D7_C301DD7A97E7.toolTip = Pick Place Robot
+HotspotPanoramaOverlayArea_9998B44A_B431_0EA6_41D4_4506BCF31E99.toolTip = Pick Place Robot
+HotspotPanoramaOverlayArea_80BF07D3_B411_09A6_41E5_FED572C63CDD.toolTip = Quadcopter
+HotspotPanoramaOverlayArea_876EAC98_B413_1FA2_41E4_738EF1AFD0F1.toolTip = Quadcopter
+HotspotPanoramaOverlayArea_812C8815_B4F7_06A2_4180_2DAF0FCB216D.toolTip = Space Robot
+HotspotPanoramaOverlayArea_82E87FB2_B4F7_19E6_41D3_5A54EDE65171.toolTip = Space Robot
+HotspotPanoramaOverlayArea_A98DB23C_B411_0AE2_41CA_5C52D2084F82.toolTip = Stewart Platform
+HotspotPanoramaOverlayArea_AAD7ECDB_B41F_1FA6_41E6_04C9E61484DF.toolTip = Stewart Platform
+HotspotPanoramaOverlayArea_85BA93B8_B411_09E2_419E_41C34E931A05.toolTip = Turtle Bot
+HotspotPanoramaOverlayArea_85627E3F_B411_3ADD_41D4_C904B5B045EA.toolTip = Turtle Bot
+HotspotPanoramaOverlayArea_97F1D86B_B471_0766_41C3_C7890C509BFE.toolTip = UR5
+HotspotPanoramaOverlayArea_97AF07D5_B471_09A2_41E2_3E20F7C566B1.toolTip = UR5
+HotspotPanoramaOverlayArea_924AD271_B411_0B62_41B9_0B90A2FC795A.toolTip = UV Sanitiser
+HotspotPanoramaOverlayArea_923041C4_B41F_09A2_41E5_766EB8A94675.toolTip = UV Sanitiser
+HotspotPanoramaOverlayArea_A94B73DD_B411_095D_41C2_6916CDE9F3DD.toolTip = Wam Bot Arm
+HotspotPanoramaOverlayArea_AD6F70DE_B437_075E_41D4_7EC36924FFA6.toolTip = Wam Bot Arm
+HotspotPanoramaOverlayArea_811586B0_B4F3_0BE2_41DA_1A0480FB7739.toolTip = mobile manipulator
+HotspotPanoramaOverlayArea_830CB4BF_B4F3_0FDE_41E0_78AE908D1288.toolTip = mobile manipultor
+
+## Media
+
+### Title
+panorama_A62584C6_B3F3_0FAE_41DB_2547B3C80D17.label = Entrance
+panorama_B86B9998_B3F7_19A2_41E0_18C0E04827C6.label = Gallery
+photo_81C567B2_B4F1_09E6_41A6_2F6554517641.label = IMG_8090-removebg-preview
+panorama_B868AC09_B3F7_7EA2_41CC_4D10C4B2C86C.label = ISRO
+photo_9B7C3648_B433_0AA2_41E3_21717729702C.label = OpenManipulator_Chain_OnShape-removebg-preview
+panorama_B85CF443_B3F7_0EA6_41CD_C4ED2E4D0846.label = PC Desk
+panorama_B8688FA7_B3F7_19ED_41CB_BA2CC9D9B5F3.label = Room 2 Centre
+panorama_B8689594_B3F7_09A2_41C6_2CD74484EB09.label = Room 2 Entrance
+panorama_B868A31B_B3F7_0AA6_41A2_277AAEA4DBAC.label = Space Robot
+panorama_B86F7FA5_B3F7_19E2_41C7_18A7581621AA.label = UR5
+panorama_B868D931_B3F7_06E2_41D6_3F509C2C4368.label = Wheel Chair
+photo_A99721C3_B411_09A6_41E6_2FF5661271CA.label = force_touch
+photo_A997136C_B411_0962_41E6_2E69DA4938A9.label = isro_arm
+photo_A99724C7_B411_0FAE_41A7_C7CE4C3D8ABE.label = kinova
+photo_A9970643_B411_0AA6_41E5_6ED660991217.label = p3dx
+photo_A997D7E4_B411_0962_41D3_02F46370C5ED.label = power_bot
+photo_A9970987_B411_39AE_41D0_1E9879E5EC3C.label = quadcopter
+photo_A997DB65_B411_3962_41DA_0AC7D9B7BA72.label = sonar_p3dx
+video_AB5CD05A_B413_06A6_41E1_E651F9FECF2D.label = stewart_platform.gif
+photo_A996DE6D_B411_1B62_41DA_58B55EEE03CE.label = turtle_bot
+photo_A9971014_B411_06A2_41E0_1319F3D462E5.label = ur5
+photo_A8D03358_B433_0AA2_41E3_AA632ABBD0A7.label = wam_bot
+
+### Video
+videolevel_A6FEA780_B7D9_7B15_41C1_9F22D3FCB290.url = media/video_AB5CD05A_B413_06A6_41E1_E651F9FECF2D_en.mp4
+videolevel_A6FEA780_B7D9_7B15_41C1_9F22D3FCB290.posterURL = media/video_AB5CD05A_B413_06A6_41E1_E651F9FECF2D_poster_en.jpg
+
+## Popup
+
+### Body
+htmlText_AB3FC50F_B41F_0EBE_41D5_020B9D2070DC.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A Stewart platform is a type of parallel manipulator that has six prismatic actuators, commonly hydraulic jacks or electric linear actuators, attached in pairs to three positions on the platform's baseplate, crossing over to three mounting points on a top plate. All 12 connections are made via universal joints. Devices placed on the top plate can be moved in the six degrees of freedom in which it is possible for a freely-suspended body to move: three linear movements x, y, z (lateral, longitudinal, and vertical), and the three rotations (pitch, roll, and yaw).</SPAN></DIV></BODY></HTML></div>
+htmlText_807E4FE5_B411_F962_41E2_446F77FEC199.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Quadcopter is an unmanned aerial vehicle ( UAV ) or drone with four rotors, each with a motor and propeller. A quadcopter can be manually controlled or can be autonomous.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Some of the most common commercial applications and uses for UAV Drones are:</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Aerial Photography &amp; Videography.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Mapping &amp; Surveying.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Asset Inspection.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Delivery of items</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">  •  </SPAN>Agriculture.</SPAN></DIV></BODY></HTML></div>
+htmlText_ABA2AC11_B411_1EA2_41C5_8308CA0B7568.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Touch™ is a mid-range, professional haptic device (slotting just under the more premium Touch X™) used in research, 3D modeling, OEM applications, and more.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Touch is a motorized device that applies force feedback on the users' hand, allowing them to feel virtual objects and producing true-to-life touch sensations as users manipulates on-screen 3D objects. Leading companies integrate Touch haptic devices into their work to achieve compelling solutions using the realistic sense of touch. </SPAN></DIV></BODY></HTML></div>
+htmlText_97C57D26_B477_1EEE_419B_3B5B08243CA6.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The Universal Robots UR5 is the middle cobot in the UR range, the cobot is a highly flexible robotic arm that enables safe automation of repetitive, risky tasks. It is the perfect cobot for performing light tasks such as packing, assembly or testing.</SPAN></DIV><DIV STYLE="text-align:left;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"/></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A flexible 18.4 kg robot with a load capacity of up to 5 kg.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">With a range of 850 mm</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">A precision of 0.1 mm</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">360 degree rotation on six joints</SPAN></DIV></BODY></HTML></div>
+htmlText_A95CD3DD_B411_095D_41E1_426FA2D9091B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The WAM® Arm is a highly dexterous, naturally backdrivable manipulator. The only arm sold in the world with direct-drive capability supported by Transparent Dynamics™ between the motors and joints, so its control of contact forces is robust—independent of mechanical force or torque sensors. It is built to outperform conventional robots with unmatched human-like grace and dexterity.</SPAN></DIV></BODY></HTML></div>
+htmlText_93F9410E_B411_06BE_41D7_39393CB2C6D9.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This UV disinfectant mobile robot is designed for indoors disinfection. It emits UV rays in all 360 degrees ensuring a kill rate of 99.99 %</SPAN></DIV></BODY></HTML></div>
+htmlText_836478EF_B4F1_077E_41C9_EE635C73D431.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This a mobile manipulator robot. Mobile base is a P3DX robot with 17Kg payload capacity. On this Kinvo lite arm is mounted for manipulation of objects.</SPAN></DIV></BODY></HTML></div>
+htmlText_84ABFC20_B411_FEE3_41E4_3542E0D7797A.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This is 5-DOF robotic arm developed for ISRO project. This arm will be used in space missions to automatically do tasks like clicking a switch to turn on light.</SPAN></DIV></BODY></HTML></div>
+htmlText_82F6FAA8_B4F1_3BE3_41E1_BCE4E744A237.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This is a dual arm space robot model. It is placed on a granite smooth surface for simulating gravity free dynamics.</SPAN></DIV></BODY></HTML></div>
+htmlText_9B92AA88_B437_1BA2_41E2_F996DA7A08A4.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">This robot uses computer vision to pick and place object to desired location.</SPAN></DIV></BODY></HTML></div>
+htmlText_80DAD7EF_B411_097E_41C2_AD21CB20171C.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">TurtleBot is a low-cost, personal robot kit with open-source software. TurtleBot was created at Willow Garage by Melonee Wise and Tully Foote in November 2010. With TurtleBot, you’ll be able to build a robot that can drive around your house, see in 3D, and have enough horsepower to create exciting applications.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_82F49AA7_B4F1_3BED_41DA_80C5916A3925.title = Dual Arm Space Robot
+window_84A9CC20_B411_FEE3_41E3_778227E0E464.title = ISRO Robotic Arm
+window_836698EF_B4F1_077E_41E5_B096C6F84533.title = Mobile Manipulator
+window_9B90AA88_B437_1BA2_41DA_6DA65C8BE65A.title = Pick Place Robot
+window_80601FE5_B411_F962_41DD_541C02B574CA.title = Quadcopter
+window_A95C33DE_B411_095F_419F_C202C9930105.title = Stewart Platform
+window_ABA12C12_B411_1EA6_41C7_A2E94343B426.title = Touch Haptic Device
+window_80D8E7EF_B411_097E_41B7_662CFEF25C4E.title = Turtle Bot
+window_97CB5D25_B477_1EE2_41C8_F36876483724.title = UR5 Idustrial Arm
+window_93E74109_B411_06A2_41D5_6403C0D15C1C.title = UV Sanitiser
+window_AB3F4510_B41F_0EA2_41DD_CF087B2FBD9F.title = Wam Bot Arm
+
+## Skin
+
+### Button
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.label = ISRO Arm >
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.label = ISRO Arm >
+Button_A7A27EE5_B4F1_FF6E_41E0_321B609CAB73.pressedLabel = Inserdt Text
+Button_A7F8FD3E_B4F1_E2DB_41E0_217594B88A53.pressedLabel = Inserdt Text
+Button_A7F8FD3E_B4F1_E2DB_41E0_217594B88A53_mobile.pressedLabel = Inserdt Text
+Button_A7A27EE5_B4F1_FF6E_41E0_321B609CAB73_mobile.pressedLabel = Inserdt Text
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC.pressedLabel = Inserdt Text
+Button_0B73474A_2D18_CB95_41B5_180037BA80BC_mobile.pressedLabel = Inserdt Text
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4_mobile.label = P3DX  >
+Button_0399826A_2D79_4594_41BA_934A50D0E6B4.label = P3DX  >
+Button_A69463BD_B4F3_A5DE_41BC_08B43D00F490_mobile.label = Pick-Place Robot >
+Button_A69463BD_B4F3_A5DE_41BC_08B43D00F490.label = Pick-Place Robot >
+Button_A7F8FD3E_B4F1_E2DB_41E0_217594B88A53_mobile.label = Quadcopter >
+Button_A7F8FD3E_B4F1_E2DB_41E0_217594B88A53.label = Quadcopter >
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF.label = Space Robot >
+Button_1D2C4FDF_2D7F_BAAB_4198_FBD1E9E469FF_mobile.label = Space Robot >
+Button_A67C1DEC_B4D2_9D7E_41CA_5534F542B222.label = Stewart Platform >
+Button_A67C1DEC_B4D2_9D7E_41CA_5534F542B222_mobile.label = Stewart Platform >
+Button_A5193732_B4D3_EEEA_41E3_8E1BA716980B_mobile.label = Touch Haptic Device >
+Button_A5193732_B4D3_EEEA_41E3_8E1BA716980B.label = Touch Haptic Device >
+Button_A7A27EE5_B4F1_FF6E_41E0_321B609CAB73_mobile.label = Turtle Bot >
+Button_A7A27EE5_B4F1_FF6E_41E0_321B609CAB73.label = Turtle Bot >
+Button_0A054365_2D09_CB9F_4145_8C365B373D19_mobile.label = UR5 >
+Button_0A054365_2D09_CB9F_4145_8C365B373D19.label = UR5 >
+Button_A67F22FC_B4EE_675F_41C1_3E06BE9DE6A1_mobile.label = UV Sanitizer >
+Button_A67F22FC_B4EE_675F_41C1_3E06BE9DE6A1.label = UV Sanitizer >
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = Wam Robot >
+Button_0AEB5577_2D08_CE7B_41B6_192923248F4E.label = Wam Robot >
+
+### Image
+Image_BA54A01F_B48B_EA81_41CB_078E8ABEA200.url = skin/Image_BA54A01F_B48B_EA81_41CB_078E8ABEA200_en.jpg
+Image_BA54A01F_B48B_EA81_41CB_078E8ABEA200_mobile.url = skin/Image_BA54A01F_B48B_EA81_41CB_078E8ABEA200_mobile_en.jpg
+
+### Label
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8_mobile.text = IIT  JODHPUR
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = IIT Jodhpur
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = ROBOTICS LAB
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83_mobile.text = ROBOTICS LAB
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = VR Tour - Robotics Lab IIT Jodhpur
